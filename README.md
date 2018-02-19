@@ -1,6 +1,6 @@
 # SeekandHit Demo Project
 
-Base project for job candidates applying for frontend developer position.
+Base project for job candidates applying for frontend developer position at [Seekandhit](https://seekandhit.com/).
 
 ## Technology
 
