@@ -27,3 +27,6 @@ Fork this repo and install the dependencies using `npm i`.
 To start the backend server on port 3000, type the command `npm run server`.
 Server provides a RESTful API following the documentation [here](https://github.com/typicode/json-server).
 Data model can be observed in `db.json`.
+
+## Layout suggestion
+![Demo](demo.png)
